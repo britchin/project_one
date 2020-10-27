@@ -6,7 +6,7 @@
 Gaming has taken the world by storm. Whether computer, console, or app games, it seems that the world of gaming generates revenue beyond measure. We decided to use Google Play 
 Store data to answer questions about how users interact with apps whether the apps are free or paid.
 Further, great debates exist between Google/Android Users and Apple/iOS Users. Often, discussions of which is better than the other circulate in the tech world amongst users. 
-Since this is the case, we decided to bring in a comparison dataset of gaming apps in the Apple Store! Let's explore and see how gaming apps data and user data characteristics
+Since this is the case, we decided to bring in a comparison dataset of gaming apps in the Apple Store! Let's explore and see how gaming app data and user data characteristics
 compare!
 
 ## Hypothesis
