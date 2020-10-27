@@ -17,9 +17,7 @@ The overarching hypothesis is that free to play games have more installs than pa
 - Compare reviews within each subcategory - are there any subcategories with higher reviews than others?
 - Is there a correlation between the price of the app and the last update?
 - Is there a specific content rating where apps have more installs?
-- Grouping by content rating - what are the differences in number of installs per rating group?
-Join Google Play Store and Apple App Store data - compare ratings, reviews, and price. Are apps more likely to be “successful” on a Google platform vs the Apple platform? 
-Or vice versa? 
+
 
 # Analysis 
 ## Do free to play games have more installs than pay to play games? (based on Google Play Store App data only)
@@ -35,14 +33,46 @@ if Users were more likely to rate a game kindly (or harshly) if it was free or a
  
  ![Price vs Rating](https://github.com/britchin/project_one/blob/main/Resources/Price%20vs%20Rating_Linregress.png)
  
- ## Analyzing reviews per subcategory, which subcategories have a higher review count than others?
+ ## Analyzing reviews per subcategory, which subcategories have a higher review count than others? (based on Google Play Store App data only)
  Here we used a bar chart to better visualize the average number of reviews exisitng within each subcategory. We were interested to know which gaming apps are most popular according to number of reviews.
  - What we found is that two subcategories (Action and Arcade) are much more likely to be reviewed that others, possibly indicating higher popularity in these subcategories.
  
  ![Average Reviews per SubCategory](https://github.com/britchin/project_one/blob/main/Resources/Average%20Number%20of%20Reviews%20by%20Sub%20Category.png)
  
- ## How many installs exist per content rating category? Is there a content rating category that is favored more amongst Users?
+ ## How many installs exist per content rating category? Is there a content rating category that is favored more amongst Users? (based on Google Play Store App data only)
  Here we used a bar chart to analyze the average number of installs per content rating category
  - We found that Everyone 10+ and Mature 17+ were the most installed content rating categories. We assumed that the Everyone content category would have had the most installs since these games would encompass more of the population, however that was not the case here. 
  
   ![Average Installs by Rating](https://github.com/britchin/project_one/blob/main/Resources/Average%20Installs%20by%20Rating.png)
+  
+# Google vs. Apple
+
+## Goals and Questions to Answer
+
+- Grouping by content rating - what are the differences in number of installs per rating group?
+Join Google Play Store and Apple App Store data - compare ratings, reviews, and price. Are apps more likely to be “successful” on a Google platform vs the Apple platform? 
+Or vice versa?
+
+## Is a gaming app likely to be more expensive in the Google Play Store or the Apple App Store?
+Here we used a bar chart to compare the total cost of the same exact games in both the Google Play Store and the Apple App Store. There were a total of 600 entries that matched in both datasets after being merged. 
+ - We found that the total price of all 600 gaming apps is more higher in the Apple App Store than they are in the Google Play Store
+ 
+![Google vs. Apple Total Price](https://github.com/britchin/project_one/blob/main/Resources/Apple%20vs%20Google%20Total%20Price.png) 
+
+## Further, what is the average difference in price when comparing the same game app's price in the Google Play Store versus the Apple App Store?
+Here we used a bar chart to compare the difference in price of the same exact games in both the Google Play Store and the Apple App Store. We then found the average of this difference in price.
+ - We found that on average, a User will pay $0.47 more for a gaming app in the Apple App Store versus the Google Play Store. Interestingly though, more of the paid gaming apps showed a difference in price of up to $6.00 in some cases!
+ 
+![Average Difference in Cost](https://github.com/britchin/project_one/blob/main/Resources/Average%20Difference%20in%20Cost.png)
+
+## Is a gaming app more likely to be reviewed in the Google Play Store or Apple App Store?
+Here we used a bar chart to compare the average number of reviews of the same exact games in both the Google Play Store and the Apple App Store. 
+ - We found a stark difference in the average number of reviews in the Google Play Store versus the Apple App Store. On average, a gaming app in the Google Play Store will have 275,554 more reviews than a gaming app in the Apple App Store!
+ 
+ ![Average Reviews](https://github.com/britchin/project_one/blob/main/Resources/Average%20Number%20of%20Reviews.png)
+ 
+ ## Further, based on the number of reviews for gaming apps on each platform, are there any differences in the ratings of these apps?
+ Here we used a bar chart to compare the average rating of the same exact games in both the Google Play Store and the Apple App Store. 
+  - Shockingly enough, we found an insignificant difference in how User's rate the same gaming apps across the two platforms! Although there was no correlation between the price and rating of the app in the Google Play Store, does this mean that User's using the Apple App Store are more likely to rate a game higher than User's in the Google Play Store?
+  
+![Average Gaming App Rating](https://github.com/britchin/project_one/blob/main/Resources/Average%20Rating.png)
