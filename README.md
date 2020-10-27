@@ -30,6 +30,6 @@ Here we used a sorted scatter plot to display the relationship between price and
 ## Is there a correlation game price and rating? (based on Google Play Store App data only)
 Here we used a linear regression to display the relationship between the price of a game app in the Google Play Store and the rating of the game app. We were interested to know 
 if Users were more likely to rate a game kindly (or harshly) if it was free or a game app they paid for.
- - What we found is that there is no real correlation between the price and the rating. It seems Users tend to be honest about their ratings whether they pay for the gaming app or
- install it for free.
+ - What we found is that there is no real correlation between the price and the rating. It seems Users tend to be honest about their ratings whether they pay for the gaming app or install it for free.
+ 
  ![Price vs Installs](https://github.com/britchin/project_one/blob/main/Resources/Price%20vs%20Rating_Linregress.png)
