@@ -25,4 +25,4 @@ Or vice versa?
 Here we used a sorted scatter plot to display the relationship between price and the number of installs of gaming apps in the Google Play Store
  - What we found is 
 
-![Price vs Installs](Price vs Installs_Scatter.png)
+![Price vs Installs](https://github.com/britchin/project_one/blob/main/Resources/Price%20vs%20Installs_Scatter.png)
