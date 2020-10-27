@@ -1,4 +1,6 @@
-# The Google/Apple Debate
+# The Google/Apple Debate - Gaming
+
+![Gaming Image](https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 
 ## Objective
 Gaming has taken the world by storm. Whether computer, console, or app games, it seems that the world of gaming generates revenue beyond measure. We decided to use Google Play 
@@ -12,10 +14,9 @@ The overarching hypothesis is that free to play games have more installs than pa
 
 ## Goals and Questions to Answer
 
-- Is there a correlation between game price and rating?
 - Is there a correlation between installs and game price?
+- Is there a correlation between game price and rating?
 - Compare reviews within each subcategory - are there any subcategories with higher reviews than others?
-- Is there a correlation between the price of the app and the last update?
 - Is there a specific content rating where apps have more installs?
 
 
@@ -45,11 +46,15 @@ if Users were more likely to rate a game kindly (or harshly) if it was free or a
  
   ![Average Installs by Rating](https://github.com/britchin/project_one/blob/main/Resources/Average%20Installs%20by%20Rating.png)
   
+# Google Play Store Observations
+Free to play games seem to be the way to go if anyone is considering building a gaming app. There is an obvious difference in the amount of installs on free to play games versus paid gaming apps. We've assumed that the source of revenue in free to play games comes from in-app purchases and add-ons. Further, the gaming apps with the most installs come from the Action and Arcade subcategories and where the content rating is either age 10+ or age 17+.
+  
 # Google vs. Apple
+
+![Google vs. Apple](https://www.techaheadcorp.com/wp-content/uploads/2019/01/android-vs-ios-which-platform-better-for-app-development.png)
 
 ## Goals and Questions to Answer
 
-- Grouping by content rating - what are the differences in number of installs per rating group?
 Join Google Play Store and Apple App Store data - compare ratings, reviews, and price. Are apps more likely to be “successful” on a Google platform vs the Apple platform? 
 Or vice versa?
 
@@ -76,3 +81,6 @@ Here we used a bar chart to compare the average number of reviews of the same ex
   - Shockingly enough, we found an insignificant difference in how User's rate the same gaming apps across the two platforms! Although there was no correlation between the price and rating of the app in the Google Play Store, does this mean that User's using the Apple App Store are more likely to rate a game higher than User's in the Google Play Store?
   
 ![Average Gaming App Rating](https://github.com/britchin/project_one/blob/main/Resources/Average%20Rating.png)
+
+# Observations
+Gaming apps are not more likely to be "successful" on a Google platform or on Apple's platform or vice versa. According to the average rating, gaming apps as a whole a rated quite similarly. Gaming apps are more likely to be reviewed in the Google Play Store vs the Apple App Store. And sadly in some cases of pay to play gaming apps, Users are going to be more likely to pay more for a gaming app in the Apple App Store than they would in the Google Play Store.
