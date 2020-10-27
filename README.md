@@ -1,6 +1,6 @@
 # The Google/Apple Debate - Gaming
 
-![Gaming Image](https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+![Gaming Image](https://cdn.mos.cms.futurecdn.net/skhxF9RhghquJuv7GfnCWR-1024-80.jpg.webp)
 
 ## Objective
 Gaming has taken the world by storm. Whether computer, console, or app games, it seems that the world of gaming generates revenue beyond measure. We decided to use Google Play 
