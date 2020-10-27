@@ -87,6 +87,6 @@ Gaming apps are not more likely to be "successful" on a Google platform or on Ap
 
 
 
-- Sources 
--- Images:https://cdn.mos.cms.futurecdn.net/skhxF9RhghquJuv7GfnCWR-1024-80.jpg.webp, https://www.techaheadcorp.com/wp-content/uploads/2019/01/android-vs-ios-which-platform-better-for-app-development.png
--- Data: https://www.kaggle.com/gauthamp10/google-playstore-apps,https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games 
+# Sources 
+- Images:https://cdn.mos.cms.futurecdn.net/skhxF9RhghquJuv7GfnCWR-1024-80.jpg.webp, https://www.techaheadcorp.com/wp-content/uploads/2019/01/android-vs-ios-which-platform-better-for-app-development.png
+- Data: https://www.kaggle.com/gauthamp10/google-playstore-apps,https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games 
