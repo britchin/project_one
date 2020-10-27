@@ -84,3 +84,9 @@ Here we used a bar chart to compare the average number of reviews of the same ex
 
 # Observations
 Gaming apps are not more likely to be "successful" on a Google platform or on Apple's platform or vice versa. According to the average rating, gaming apps as a whole a rated quite similarly. Gaming apps are more likely to be reviewed in the Google Play Store vs the Apple App Store. And sadly in some cases of pay to play gaming apps, Users are going to be more likely to pay more for a gaming app in the Apple App Store than they would in the Google Play Store.
+
+
+
+- Sources 
+  -- Images:https://cdn.mos.cms.futurecdn.net/skhxF9RhghquJuv7GfnCWR-1024-80.jpg.webp, https://www.techaheadcorp.com/wp-content/uploads/2019/01/android-vs-ios-which-platform-better-for-app-development.png
+  -- Data: https://www.kaggle.com/gauthamp10/google-playstore-apps,https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games 
