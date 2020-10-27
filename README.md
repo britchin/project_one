@@ -14,8 +14,9 @@ The overarching hypothesis is that free to play games have more installs than pa
 
 - Is there a correlation between game price and rating?
 - Is there a correlation between installs and game price?
-- Compare reviews within each category - are there any categories with higher reviews than others?
+- Compare reviews within each subcategory - are there any subcategories with higher reviews than others?
 - Is there a correlation between the price of the app and the last update?
+- Is there a specific content rating where apps have more installs?
 - Grouping by content rating - what are the differences in number of installs per rating group?
 Join Google Play Store and Apple App Store data - compare ratings, reviews, and price. Are apps more likely to be “successful” on a Google platform vs the Apple platform? 
 Or vice versa? 
@@ -32,4 +33,16 @@ Here we used a linear regression to display the relationship between the price o
 if Users were more likely to rate a game kindly (or harshly) if it was free or a game app they paid for.
  - What we found is that there is no real correlation between the price and the rating. It seems Users tend to be honest about their ratings whether they pay for the gaming app or install it for free.
  
- ![Price vs Installs](https://github.com/britchin/project_one/blob/main/Resources/Price%20vs%20Rating_Linregress.png)
+ ![Price vs Rating](https://github.com/britchin/project_one/blob/main/Resources/Price%20vs%20Rating_Linregress.png)
+ 
+ ## Analyzing reviews per subcategory, which subcategories have a higher review count than others?
+ Here we used a bar chart to better visualize the average number of reviews exisitng within each subcategory. We were interested to know which gaming apps are most popular according to number of reviews.
+ - What we found is that two subcategories (Action and Arcade) are much more likely to be reviewed that others, possibly indicating higher popularity in these subcategories.
+ 
+ ![Average Reviews per SubCategory](https://github.com/britchin/project_one/blob/main/Resources/Average%20Number%20of%20Reviews%20by%20Sub%20Category.png)
+ 
+ ## How many installs exist per content rating category? Is there a content rating category that is favored more amongst Users?
+ Here we used a bar chart to analyze the average number of installs per content rating category
+ - We found that Everyone 10+ and Mature 17+ were the most installed content rating categories. We assumed that the Everyone content category would have had the most installs since these games would encompass more of the population, however that was not the case here. 
+ 
+  ![Average Installs by Rating](https://github.com/britchin/project_one/blob/main/Resources/Average%20Installs%20by%20Rating.png)
