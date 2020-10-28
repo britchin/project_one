@@ -16,6 +16,7 @@ The overarching hypothesis is that free to play games have more installs than pa
 
 - Is there a correlation between installs and game price?
 - Is there a correlation between game price and rating?
+- Is there a correlation between the game price and it's most recent update?
 - Compare reviews within each subcategory - are there any subcategories with higher reviews than others?
 - Is there a specific content rating where apps have more installs?
 
@@ -33,6 +34,12 @@ if Users were more likely to rate a game kindly (or harshly) if it was free or a
  - What we found is that there is no real correlation between the price and the rating. It seems Users tend to be honest about their ratings whether they pay for the gaming app or install it for free.
  
  ![Price vs Rating](https://github.com/britchin/project_one/blob/main/Resources/Price%20vs%20Rating_Linregress.png)
+ 
+ ## Does a paid gaming app offer a more recent update than a free gaming app? Is there any correlation between the date the game was last updated and the price of the game?
+ Here we used a scatter plot/linear regression to display the relationship between price and last update. We were interested to know if paid games would be more up to date than free to play games. 
+  - What we found is that there is no correlation to the date the game was last updated and the price of the game. One of the most expensive games was almost 6 months behind on it's most recent update! 
+  
+  ![Price vs Last Update](https://github.com/britchin/project_one/blob/main/Resources/Price%20vs%20Last%20Updated_Linregress.png)
  
  ## Analyzing reviews per subcategory, which subcategories have a higher review count than others? (based on Google Play Store App data only)
  Here we used a bar chart to better visualize the average number of reviews exisitng within each subcategory. We were interested to know which gaming apps are most popular according to number of reviews.
